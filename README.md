@@ -148,7 +148,3 @@ npm run lint
 - Add search functionality
 - Implement pagination for the GET /notes endpoint
 - Add user management features
-
-## 📄 License
-
-This project is licensed under the ISC License.
